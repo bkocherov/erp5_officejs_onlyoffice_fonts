@@ -1,0 +1,14 @@
+{
+  "name": "erp5_officejs_onlyoffice_fonts",
+  "description": "fonts used OnlyOffice project.",
+  "scopes": [
+    {
+      "prefix": "onlyoffice/fonts/",
+      "paths": [
+        "Images/",
+        "AllFonts.js",
+        "ttf/"
+      ]
+    }
+  ]
+}
