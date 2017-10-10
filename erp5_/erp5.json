@@ -1,6 +1,9 @@
 {
   "name": "erp5_officejs_onlyoffice_fonts",
   "description": "fonts used OnlyOffice project.",
+  "dependencies": [
+    "erp5_officejs",
+  ],
   "scopes": [
     {
       "prefix": "onlyoffice/fonts/",
